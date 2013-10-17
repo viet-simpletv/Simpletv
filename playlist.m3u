@@ -342,7 +342,7 @@ http://67.228.177.198:1935/mtv/43hd/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="212",Sky Sport 1
 rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base playpath=sky1.stream swfUrl=http://141.8.244.56/stml/player/player.swf live=r.ates pageUrl=http://sportsembed.com/r.ates token=%X886(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-rtmp://$OPT:rtmp-raw=rtmpe://89.248.170.199:443/liveedge1/skysss2211 live=1 pageUrl=http://13e5592cf8127a96cef9b8adc3f1d3f3.com/gen_s.php?id=17541
+rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56/base playpath=sky2.stream swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=mtunes_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=live swfVfy=live timeout=15 token=%X886(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
 rtmp://$OPT:rtmp-raw=rtmp://141.8.244.56:1935/base playpath=sky3.stream live=1 swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=aj2&vw=800&vh=450&typeplayer=0&domain=ana1.me token=%X886(nPK@#.
 #EXTINF:-1 $ExtFilter="Sports" group-title="QUỐC TẾ" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
